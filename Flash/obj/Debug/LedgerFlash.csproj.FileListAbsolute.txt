@@ -1,0 +1,12 @@
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\bin\Debug\test.exe.config
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\bin\Debug\test.exe
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\bin\Debug\test.pdb
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\bin\Debug\Guna.UI2.dll
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\obj\Debug\LedgerFlash.csproj.AssemblyReference.cache
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\obj\Debug\test.Form1.resources
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\obj\Debug\test.Properties.Resources.resources
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\obj\Debug\LedgerFlash.csproj.GenerateResource.cache
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\obj\Debug\LedgerFlash.csproj.CoreCompileInputs.cache
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\obj\Debug\LedgerFl.E2185B7D.Up2Date
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\obj\Debug\test.exe
+C:\Users\LW\Desktop\new priojjs\Ledger\Flash\obj\Debug\test.pdb
